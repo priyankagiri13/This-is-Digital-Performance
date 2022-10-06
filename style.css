@@ -357,10 +357,10 @@ html,body{
 #text-content h1:after{
     content: "";
     position: absolute;
-    width: 150px;
+    width: 170px;
     height: 56px;
     background-image: url(https://thisisdigital.co.uk/dist/images/circle-green.svg);
-    left: 36%;
+    left: 35%;
     background-size: contain;
     bottom: 18%;
     background-repeat: no-repeat;
