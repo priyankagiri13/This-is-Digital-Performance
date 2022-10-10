@@ -357,8 +357,8 @@ html,body{
 #text-content h1:after{
     content: "";
     position: absolute;
-    width: 170px;
-    height: 56px;
+    width: 180px;
+    height: 58px;
     background-image: url(https://thisisdigital.co.uk/dist/images/circle-green.svg);
     left: 36%;
     background-size: contain;
@@ -598,7 +598,7 @@ html,body{
     content: "";
     position: absolute;
     left: 17%;
-    top: 3%;
+    top: 0%;
     width: 10vw;
     height: 10vh;
     background-image: url(https://thisisdigital.co.uk/dist/images/circle-green.svg);
